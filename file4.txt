@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Thi is some content to mess up with later
 line in here in file4.txt
 =======
 >>>>>>> newfeature
 New line in here file4.txt
+=======
+This is brutal stuff right here
+>>>>>>> newfeature
