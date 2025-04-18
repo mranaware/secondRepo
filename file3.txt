@@ -1,2 +1,2 @@
 This is file3.txt
-This is just a bugfix
+This is just a bugfix code.
